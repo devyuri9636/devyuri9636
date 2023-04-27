@@ -1,7 +1,1 @@
-### Olá, eu sou o Yuri 👋
-
-
-- 📚 Análise e desenvolvimento de sistemas
-- 👨🏼‍💻 Estudando Java
-- 📩 Meu e-mail: freitasyuri86@gmail.com
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=header"/>
